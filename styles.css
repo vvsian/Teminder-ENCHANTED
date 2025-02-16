@@ -1700,3 +1700,9 @@ body.dark-mode .subject-icon {
 .dark-mode .todo-item {
     border-color: var(--dark-border-color);
 }
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
