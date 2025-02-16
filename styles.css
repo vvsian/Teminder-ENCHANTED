@@ -298,7 +298,7 @@ body {
 
 /* Enhanced Sections */
 .section {
-    padding: -15px;
+    padding: 25px;
     display: none;
     flex: 1;
     overflow-y: auto;
