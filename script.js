@@ -285,7 +285,7 @@ function updateTomorrowDate() {
     // If it's before 5 PM (17:00), show today's homework as "tomorrow"
     // If it's after 5 PM, show next day's homework
     const tomorrow = new Date();
-    if (currentHour >= 16) {
+    if (currentHour >= 15) {
         tomorrow.setDate(tomorrow.getDate() + 1);
     }
     
