@@ -71,7 +71,7 @@ const weeklyHomework = {
     romana: [
         {
             title: 'Cererea',
-            description: 'p134 ex 12, invatam subordonate',
+            description: 'p134 ex 12, invatam subordonata',
             priority: 'medium'
         }
     ],
@@ -106,7 +106,7 @@ const weeklyHomework = {
     fizica: [
         {
             title: 'Problemă',
-            description: 'Comunicare',
+            description: 'Comunicaree',
             priority: 'medium'
         }
     ],
@@ -118,7 +118,7 @@ const weeklyHomework = {
         },
         {
             title: 'Grupa D.Angela',
-            description: 'TEST',
+            description: 'TESTT',
             priority: 'high'
         }
     ],
