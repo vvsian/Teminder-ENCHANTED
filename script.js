@@ -163,6 +163,13 @@ const weeklyHomework = {
             description: 'invatam poezia p92',
             priority: 'high'
         }
+    ],
+    informatica: [
+        {
+            title: 'Fără teme',
+            description: 'Grupa Anglea Braniste: Facem Maze (labirint)',
+            priority: 'high'
+        }
     ]
 };
 
@@ -181,7 +188,8 @@ function getSubjectIcon(subject) {
         sport: '🏀',
         dezvoltare: '🌱',
         mate_aplicativa: '🔢',
-        rusa: '📖'
+        rusa: '📖',
+        informatica: '💻'
     };
     return icons[subject] || '📝';
 }
@@ -201,7 +209,9 @@ function formatSubjectName(subject) {
         sport: 'Ed. Fizică',
         dezvoltare: 'Dezvoltare Personală',
         mate_aplicativa: 'Mate Aplicativă',
-        rusa: 'Limba Rusă'
+        rusa: 'Limba Rusă',
+        informatica: 'Informatica'
+    
     };
     return subjectNames[subject] || subject;
 }
@@ -275,7 +285,7 @@ function updateTomorrowDate() {
     // If it's before 5 PM (17:00), show today's homework as "tomorrow"
     // If it's after 5 PM, show next day's homework
     const tomorrow = new Date();
-    if (currentHour >= 15) {
+    if (currentHour >= 16) {
         tomorrow.setDate(tomorrow.getDate() + 1);
     }
     
@@ -313,7 +323,8 @@ function updateTomorrowHomework(tomorrowDay) {
         'Ed. fizică': 'sport',
         'Dez. Personala': 'dezvoltare',
         'Mate Aplicativa': 'mate_aplicativa',
-        'Ed Tehnologica': 'tehnologica'
+        'Ed Tehnologica': 'tehnologica',
+        'Informatica': 'informatica'
     };
     
     // Get unique subjects from tomorrow's schedule
