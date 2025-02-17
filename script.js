@@ -71,7 +71,7 @@ const weeklyHomework = {
     romana: [
         {
             title: 'Cererea',
-            description: 'ex 9 p 134',
+            description: 'p134 ex 12, invatam subordonate',
             priority: 'medium'
         }
     ],
@@ -85,7 +85,7 @@ const weeklyHomework = {
     civica: [
         {
             title: 'Formular',
-            description: 'De terminat formularul',
+            description: 'De facut codul de integritate',
             priority: 'high'
         }
     ],
@@ -113,13 +113,13 @@ const weeklyHomework = {
     engleza: [
         {
             title: 'Grupa D.Natalia',
-            description: 'Grupa D.Natalia: EXERSAM PENTRU TEST',
+            description: 'TEST',
             priority: 'high'
         },
         {
             title: 'Grupa D.Angela',
-            description: ' Grupa D.Angela: Complete the worksheets.',
-            priority: 'medium'
+            description: 'TEST',
+            priority: 'high'
         }
     ],
     geografie: [
@@ -275,7 +275,7 @@ function updateTomorrowDate() {
     // If it's before 5 PM (17:00), show today's homework as "tomorrow"
     // If it's after 5 PM, show next day's homework
     const tomorrow = new Date();
-    if (currentHour >= 16) {
+    if (currentHour >= 15) {
         tomorrow.setDate(tomorrow.getDate() + 1);
     }
     
