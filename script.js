@@ -70,8 +70,8 @@ const weeklyHomework = {
     ],
     romana: [
         {
-            title: 'Cererea',
-            description: 'p134 ex 12, invatam subordonata',
+            title: 'Cereread',
+            description: 'p134 ex 12, invatam subordonata HAI BAI DECE NU MERGI',
             priority: 'medium'
         }
     ],
@@ -166,7 +166,7 @@ const weeklyHomework = {
     ],
     informatica: [
         {
-            title: 'Fără teme',
+            title: 'Fără te',
             description: 'Grupa Anglea Braniste: Facem Maze (labirint)',
             priority: 'high'
         }
