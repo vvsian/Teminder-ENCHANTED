@@ -64,7 +64,7 @@ const weeklyHomework = {
     mate: [
         { 
             title: 'Exerciții pagina 70-71',
-            description: '9,15,16 p 90',
+            description: ' ex 13,18,19 p89',
             priority: 'high'
         }
     ],
