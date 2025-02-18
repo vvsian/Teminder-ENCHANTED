@@ -64,21 +64,21 @@ const weeklyHomework = {
     mate: [
         { 
             title: 'Exerciții pagina 70-71',
-            description: ' ex 13,18,19 p89',
+            description: ' pe viber',
             priority: 'high'
         }
     ],
     romana: [
         {
             title: 'Cereread',
-            description: 'p134 ex 12, invatam subordonata HAI BAI DECE NU MERGI',
+            description: 'ex 18.20 p 135',
             priority: 'medium'
         }
     ],
     biologie: [
         {
             title: 'Exerciții pagina 70',
-            description: '3,6 p 75',
+            description: 'ex 6 p 79',
             priority: 'high'
         }
     ],
