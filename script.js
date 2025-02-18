@@ -139,7 +139,7 @@ const weeklyHomework = {
     sport: [
         {
             title: 'Basketball',
-            description: 'Basketball',
+            description: 'Gimnastica',
             priority: 'medium'
         }
     ],
