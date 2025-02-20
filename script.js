@@ -64,7 +64,7 @@ const weeklyHomework = {
     mate: [
         { 
             title: 'Exerciții pagina 70-71',
-            description: ' pe viber',
+            description: ' ex 9 toate testele',
             priority: 'high'
         }
     ],
@@ -92,14 +92,14 @@ const weeklyHomework = {
     chimie: [
         {
             title: 'Studiu Sulf',
-            description: 'TEST',
+            description: 'invatam Clor si Sulf',
             priority: 'medium'
         }
     ],
     istorie: [
         {
             title: 'Lectură',
-            description: 'cauzele caderii URSS',
+            description: 'p148-150 citit',
             priority: 'high'
         }
     ],
@@ -113,19 +113,19 @@ const weeklyHomework = {
     engleza: [
         {
             title: 'Grupa D.Natalia',
-            description: 'TEST',
+            description: 'TEST BILETELE',
             priority: 'high'
         },
         {
             title: 'Grupa D.Angela',
-            description: 'TESTT',
+            description: 'nimic',
             priority: 'high'
         }
     ],
     geografie: [
         {
             title: 'Studiu de caz',
-            description: 'Facem ex 1,2,3,4 p 85',
+            description: 'dezbateri la tema',
             priority: 'medium'
         }
     ],
