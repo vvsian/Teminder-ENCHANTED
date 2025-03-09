@@ -18,8 +18,8 @@ const orarLectii = {
     'Monday': ["1. Ed. Civică / Cabinet : 223", "2. Fizica / Cabinet : 225", "3. L. Română / Cabinet : 329", "4. L. Română / Cabinet : 329", "5. Ed. fizică", "6. L. engleză / Cabinet : 139/329"],
     'Tuesday': ["1. Biologie / Cabinet : 324", "2. Informatica / Cabinet : 222/235", "3. Matematica / Cabinet : -", "4. L. Română / Cabinet : 329", "5. L. Română / Cabinet : 329", "6. Ed Tehnologica/ Cabinet : Fete/Baieti"],
     'Wednesday': ["1. Matematica / Cabinet : -", "2. Mate Aplicativa / Cabinet : ^", "3. Geografia/ Cabinet : 125", "4. Istoria / Cabinet : 121", "5. Ed. fizică", "6. Limba Rusa / Cabinet : -"],
-    'Thursday': ["1. Chimia / Cabinet : 325", "2. Matematica / Cabinet : -", "3. Chimia / Cabinet : 325", "4. L. engleză / Cabinet : 139/329", "5. Istoria / Cabinet : 121"],
-    'Friday': ["1. Biologie / Cabinet : 324", "2. Matematica / Cabinet : -", "3. L. Română / Cabinet : 329", "4. Limba Rusa / Cabinet : -", "5. Dez. Personala / Cabinet : 329", "6. Fizica / Cabinet : 225"]
+    'Thursday': ["1. Biologie / Cabinet : 324", "2. Matematica / Cabinet : -", "3. Chimia / Cabinet : 325", "4. L. engleză / Cabinet : 139/329", "5. Istoria / Cabinet : 121"],
+    'Friday': ["1. Chimia / Cabinet : 325", "2. Matematica / Cabinet : -", "3. L. Română / Cabinet : 329", "4. Limba Rusa / Cabinet : -", "5. Dez. Personala / Cabinet : 329", "6. Fizica / Cabinet : 225"]
 };
 
 const days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"];
@@ -64,35 +64,35 @@ const weeklyHomework = {
     mate: [
         { 
             title: 'Exerciții pagina 70-71',
-            description: ' ex 9 toate testele',
+            description: ' nimic',
             priority: 'high'
         }
     ],
     romana: [
         {
             title: 'Cereread',
-            description: 'ex 18.20 p 135',
+            description: 'nimic',
             priority: 'medium'
         }
     ],
     biologie: [
         {
             title: 'Exerciții pagina 70',
-            description: 'ex 6 p 79',
+            description: 'nimic',
             priority: 'high'
         }
     ],
     civica: [
         {
             title: 'Formular',
-            description: 'De facut codul de integritate',
+            description: 'De facut proiectul',
             priority: 'high'
         }
     ],
     chimie: [
         {
             title: 'Studiu Sulf',
-            description: 'invatam Clor si Sulf',
+            description: 'nimic',
             priority: 'medium'
         }
     ],
@@ -106,14 +106,14 @@ const weeklyHomework = {
     fizica: [
         {
             title: 'Problemă',
-            description: 'Comunicaree',
+            description: 'nimic',
             priority: 'medium'
         }
     ],
     engleza: [
         {
             title: 'Grupa D.Natalia',
-            description: 'TEST BILETELE',
+            description: 'nimic',
             priority: 'high'
         },
         {
@@ -125,7 +125,7 @@ const weeklyHomework = {
     geografie: [
         {
             title: 'Studiu de caz',
-            description: 'dezbateri la tema',
+            description: 'nimic',
             priority: 'medium'
         }
     ],
@@ -160,14 +160,14 @@ const weeklyHomework = {
     rusa: [
         {
             title: 'Fără teme',
-            description: 'invatam poezia p92',
+            description: 'test',
             priority: 'high'
         }
     ],
     informatica: [
         {
             title: 'Fără te',
-            description: 'Grupa Anglea Braniste: Facem Maze (labirint)',
+            description: 'Grupa Anglea Braniste: desenam figuri geometrice cu creionul in scratch',
             priority: 'high'
         }
     ]
