@@ -71,7 +71,7 @@ const weeklyHomework = {
     romana: [
         {
             title: 'Cereread',
-            description: 'nimic',
+            description: 'invatam pe de rost conjugatia , prepozitia, partile de vorbire',
             priority: 'medium'
         }
     ],
@@ -99,7 +99,7 @@ const weeklyHomework = {
     istorie: [
         {
             title: 'Lectură',
-            description: 'p148-150 citit',
+            description: 'de facut comunicare A4 razboiul din transnistria / nistru 1992',
             priority: 'high'
         }
     ],
@@ -113,12 +113,12 @@ const weeklyHomework = {
     engleza: [
         {
             title: 'Grupa D.Natalia',
-            description: 'nimic',
+            description: 'D Natalia, fiecare are sarcina lui + ex 5 p 92',
             priority: 'high'
         },
         {
             title: 'Grupa D.Angela',
-            description: 'nimic',
+            description: 'D. Angela : 12 p 100',
             priority: 'high'
         }
     ],
