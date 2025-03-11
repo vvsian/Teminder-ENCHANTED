@@ -78,7 +78,7 @@ const weeklyHomework = {
     biologie: [
         {
             title: 'Exerciții pagina 70',
-            description: 'nimic',
+            description: 'Pliant - tema: prevenirea sarcinii in adolescenta impotriva pentru sanatatea viitoaRei mame si planificarea familiei',
             priority: 'high'
         }
     ],
