@@ -64,7 +64,7 @@ const weeklyHomework = {
     mate: [
         { 
             title: 'Exerciții pagina 70-71',
-            description: ' ex 4 a,b,c ex 9 a,b p 94',
+            description: ' 1,2,3 p 96',
             priority: 'high'
         }
     ],
@@ -99,7 +99,7 @@ const weeklyHomework = {
     istorie: [
         {
             title: 'Lectură',
-            description: 'de facut comunicare A4 razboiul din transnistria / nistru 1992',
+            description: 'p162 citit',
             priority: 'high'
         }
     ],
@@ -125,7 +125,7 @@ const weeklyHomework = {
     geografie: [
         {
             title: 'Studiu de caz',
-            description: 'nimic',
+            description: 'p97 studiu de caz',
             priority: 'medium'
         }
     ],
