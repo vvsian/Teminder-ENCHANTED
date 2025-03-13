@@ -64,7 +64,7 @@ const weeklyHomework = {
     mate: [
         { 
             title: 'Exerciții pagina 70-71',
-            description: ' 1,2,3 p 96',
+            description: ' 4,5,6 p 95',
             priority: 'high'
         }
     ],
@@ -78,7 +78,7 @@ const weeklyHomework = {
     biologie: [
         {
             title: 'Exerciții pagina 70',
-            description: 'Pliant - tema: prevenirea sarcinii in adolescenta impotriva pentru sanatatea viitoaRei mame si planificarea familiei',
+            description: 'terminam tabelul din clasa',
             priority: 'high'
         }
     ],
@@ -92,14 +92,14 @@ const weeklyHomework = {
     chimie: [
         {
             title: 'Studiu Sulf',
-            description: 'nimic',
+            description: 'terminam problema din clasa',
             priority: 'medium'
         }
     ],
     istorie: [
         {
             title: 'Lectură',
-            description: 'p162 citit',
+            description: 'p 165 surse istorice , analiza surselor facem punctele (formuleaza)',
             priority: 'high'
         }
     ],
@@ -113,12 +113,12 @@ const weeklyHomework = {
     engleza: [
         {
             title: 'Grupa D.Natalia',
-            description: 'D Natalia, fiecare are sarcina lui + ex 5 p 92',
+            description: 'D Natalia, 14 p 96',
             priority: 'high'
         },
         {
             title: 'Grupa D.Angela',
-            description: 'D. Angela : 12 p 100',
+            description: '-',
             priority: 'high'
         }
     ],
@@ -153,7 +153,7 @@ const weeklyHomework = {
     mate_aplicativa: [
         {
             title: 'PROIECT',
-            description: 'caietul de teste aducem',
+            description: 'PROIECT ',
             priority: 'high'
         }
     ],
