@@ -64,21 +64,21 @@ const weeklyHomework = {
     mate: [
         { 
             title: 'Exerciții pagina 70-71',
-            description: ' 4,5,6 p 95',
+            description: ' geometrie',
             priority: 'high'
         }
     ],
     romana: [
         {
             title: 'Cereread',
-            description: 'invatam pe de rost conjugatia , prepozitia, partile de vorbire',
+            description: 'ex 3,4,5,6,7 p nu stiu cat, udeva dupa textul care lam citit azi',
             priority: 'medium'
         }
     ],
     biologie: [
         {
             title: 'Exerciții pagina 70',
-            description: 'terminam tabelul din clasa',
+            description: 'TEST',
             priority: 'high'
         }
     ],
@@ -106,7 +106,7 @@ const weeklyHomework = {
     fizica: [
         {
             title: 'Problemă',
-            description: 'nimic',
+            description: 'comunicare, terminam tabelul',
             priority: 'medium'
         }
     ],
@@ -160,7 +160,7 @@ const weeklyHomework = {
     rusa: [
         {
             title: 'Fără teme',
-            description: 'test',
+            description: 'poezie',
             priority: 'high'
         }
     ],
