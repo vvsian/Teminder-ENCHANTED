@@ -64,21 +64,21 @@ const weeklyHomework = {
     mate: [
         { 
             title: 'Exerciții pagina 70-71',
-            description: ' geometrie',
+            description: 'este pe viber',
             priority: 'high'
         }
     ],
     romana: [
         {
             title: 'Cereread',
-            description: 'ex 3,4,5,6,7 p nu stiu cat, udeva dupa textul care lam citit azi',
+            description: 'scrim anunt, cerere, legenda, aviz',
             priority: 'medium'
         }
     ],
     biologie: [
         {
             title: 'Exerciții pagina 70',
-            description: 'TEST',
+            description: 'alegem un ecosistem si il descriem (biotop si biocenoza)',
             priority: 'high'
         }
     ],
@@ -92,14 +92,14 @@ const weeklyHomework = {
     chimie: [
         {
             title: 'Studiu Sulf',
-            description: 'terminam problema din clasa',
+            description: 'de caracterizat fosfor',
             priority: 'medium'
         }
     ],
     istorie: [
         {
             title: 'Lectură',
-            description: 'p 165 surse istorice , analiza surselor facem punctele (formuleaza)',
+            description: 'pregatire pretestare',
             priority: 'high'
         }
     ],
@@ -113,7 +113,7 @@ const weeklyHomework = {
     engleza: [
         {
             title: 'Grupa D.Natalia',
-            description: 'D Natalia, 14 p 96',
+            description: 'D Natalia, -',
             priority: 'high'
         },
         {
