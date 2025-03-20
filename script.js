@@ -113,7 +113,7 @@ const weeklyHomework = {
     engleza: [
         {
             title: 'Grupa D.Natalia',
-            description: 'D Natalia, -',
+            description: 'D Natalia, '-',
             priority: 'high'
         },
         {
