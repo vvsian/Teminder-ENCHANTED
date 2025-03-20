@@ -64,7 +64,7 @@ const weeklyHomework = {
     mate: [
         { 
             title: 'Exerciții pagina 70-71',
-            description: 'este pe viber',
+            description: 'este pe viber.',
             priority: 'high'
         }
     ],
