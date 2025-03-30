@@ -118,7 +118,7 @@ const weeklyHomework = {
         },
         {
             title: 'Grupa D.Angela',
-            description: 'Do a survey on the topic.',
+            description: 'D.Angela : Do a survey on the topic.',
             priority: 'high'
         }
     ],
