@@ -64,21 +64,21 @@ const weeklyHomework = {
     mate: [
         { 
             title: 'Exerciții pagina 70-71',
-            description: 'este pe viber.',
+            description: 'EX 9 P 165 / SI PE VIBER ',
             priority: 'high'
         }
     ],
     romana: [
         {
             title: 'Cereread',
-            description: 'scrim anunt, cerere, legenda, aviz',
+            description: 'cred ca nimic',
             priority: 'medium'
         }
     ],
     biologie: [
         {
             title: 'Exerciții pagina 70',
-            description: 'alegem un ecosistem si il descriem (biotop si biocenoza)',
+            description: 'alegem un ecosistem natural si unul artificiaL si le caracterizam',
             priority: 'high'
         }
     ],
@@ -92,40 +92,40 @@ const weeklyHomework = {
     chimie: [
         {
             title: 'Studiu Sulf',
-            description: 'de caracterizat fosfor',
+            description: 'De analizat un îngrășământ mineral din viața cotidiană. De scris numele produsului ,cât continut de fosfor are ,instrucțiunile la produs',
             priority: 'medium'
         }
     ],
     istorie: [
         {
             title: 'Lectură',
-            description: 'pregatire pretestare',
+            description: 'continuam cu umatoarea tema',
             priority: 'high'
         }
     ],
     fizica: [
         {
             title: 'Problemă',
-            description: 'comunicare, terminam tabelul',
+            description: 'comunicare ( radiocomunicatii si undele radio) , terminam tabelul',
             priority: 'medium'
         }
     ],
     engleza: [
         {
              title: 'Grupa D.Angela',
-            description: 'D. Natalia :  -',
+            description: 'D. Natalia : ex 12 p 100 sau 15 p 104',
             priority: 'high'
         },
         {
             title: 'Grupa D.Angela',
-            description: '-',
+            description: 'Do a survey on the topic.',
             priority: 'high'
         }
     ],
     geografie: [
         {
             title: 'Studiu de caz',
-            description: 'p97 studiu de caz',
+            description: 'nu prea stiu',
             priority: 'medium'
         }
     ],
@@ -160,14 +160,14 @@ const weeklyHomework = {
     rusa: [
         {
             title: 'Fără teme',
-            description: 'poezie',
+            description: 'nimic',
             priority: 'high'
         }
     ],
     informatica: [
         {
             title: 'Fără te',
-            description: 'Grupa Anglea Braniste: desenam figuri geometrice cu creionul in scratch',
+            description: 'Grupa Anglea Braniste: nimic?',
             priority: 'high'
         }
     ]
