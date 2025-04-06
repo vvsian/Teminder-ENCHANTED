@@ -64,42 +64,42 @@ const weeklyHomework = {
     mate: [
         { 
             title: 'Exerciții pagina 70-71',
-            description: 'EX 9 P 165 / SI PE VIBER ',
+            description: '2,3 p 217 v2 ',
             priority: 'high'
         }
     ],
     romana: [
         {
             title: 'Cereread',
-            description: 'analiza pretestare',
+            description: 'p197 toate ex',
             priority: 'medium'
         }
     ],
     biologie: [
         {
             title: 'Exerciții pagina 70',
-            description: 'alegem un ecosistem natural si unul artificiaL si le caracterizam',
+            description: 'atoate notiuni p89 , ex6p92',
             priority: 'high'
         }
     ],
     civica: [
         {
             title: 'Formular',
-            description: 'De facut proiectul',
+            description: 'nimic',
             priority: 'high'
         }
     ],
     chimie: [
         {
             title: 'Studiu Sulf',
-            description: 'De analizat un îngrășământ mineral din viața cotidiană. De scris numele produsului ,cât continut de fosfor are ,instrucțiunile la produs',
+            description: 'nimic cred',
             priority: 'medium'
         }
     ],
     istorie: [
         {
             title: 'Lectură',
-            description: 'continuam cu umatoarea tema',
+            description: 'TEXT ARGUMENTATIV: Capatarea independentei Republicii Moldova. Cale spre democratizarea societatii',
             priority: 'high'
         }
     ],
@@ -113,7 +113,7 @@ const weeklyHomework = {
     engleza: [
         {
              title: 'Grupa D.Angela',
-            description: 'D. Natalia : ex 12 p 100 sau 15 p 104',
+            description: 'D. Natalia : terminam proiectul',
             priority: 'high'
         },
         {
@@ -125,7 +125,7 @@ const weeklyHomework = {
     geografie: [
         {
             title: 'Studiu de caz',
-            description: 'nu prea stiu',
+            description: 'nimic',
             priority: 'medium'
         }
     ],
@@ -167,7 +167,7 @@ const weeklyHomework = {
     informatica: [
         {
             title: 'Fără te',
-            description: 'Grupa Anglea Braniste: nimic?',
+            description: 'test',
             priority: 'high'
         }
     ]
