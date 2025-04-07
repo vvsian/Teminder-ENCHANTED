@@ -71,7 +71,7 @@ const weeklyHomework = {
     romana: [
         {
             title: 'Cereread',
-            description: 'p198  ex9,12',
+            description: 'p198  ex9,11,13',
             priority: 'medium'
         }
     ],
