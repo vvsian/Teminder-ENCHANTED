@@ -64,21 +64,21 @@ const weeklyHomework = {
     mate: [
         { 
             title: 'Exerciții pagina 70-71',
-            description: '2,3 p 217 v2 ',
+            description: '1,2,3,4 p 111-112 ',
             priority: 'high'
         }
     ],
     romana: [
         {
             title: 'Cereread',
-            description: 'p198  ex9,11,13',
+            description: 'este pe viber ',
             priority: 'medium'
         }
     ],
     biologie: [
         {
             title: 'Exerciții pagina 70',
-            description: 'atoate notiuni p89 , ex6p92',
+            description: 'p98 ex 1',
             priority: 'high'
         }
     ],
@@ -92,21 +92,21 @@ const weeklyHomework = {
     chimie: [
         {
             title: 'Studiu Sulf',
-            description: 'nimic cred',
+            description: 'nimic ',
             priority: 'medium'
         }
     ],
     istorie: [
         {
             title: 'Lectură',
-            description: 'TEXT ARGUMENTATIV: Capatarea independentei Republicii Moldova. Cale spre democratizarea societatii',
+            description: 'R.Molodva si integrarea europeana : Etapele',
             priority: 'high'
         }
     ],
     fizica: [
         {
             title: 'Problemă',
-            description: 'comunicare ( radiocomunicatii si undele radio) , terminam tabelul',
+            description: 'Utilizarea energiei nucleare:  PRIMI 13 DIN CATALOG - pericolele utilizarii / DE LA 13-26 - advantaje, ecologic fiabil',
             priority: 'medium'
         }
     ],
@@ -125,7 +125,7 @@ const weeklyHomework = {
     geografie: [
         {
             title: 'Studiu de caz',
-            description: 'nimic',
+            description: 'Facem un logo sau pliant sau reclama la Promovarea Turismului',
             priority: 'medium'
         }
     ],
