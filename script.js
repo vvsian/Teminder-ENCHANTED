@@ -78,7 +78,7 @@ const weeklyHomework = {
     biologie: [
         {
             title: 'Exerciții pagina 70',
-            description: 'p98 ex 1',
+            description: 'p98 ex 1 SI DE SCRIS CANTITATEA DE APA UTILIZATA IN FIECARE ZI IN TOATA DOMENIILE',
             priority: 'high'
         }
     ],
